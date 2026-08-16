@@ -32,7 +32,7 @@ The complete UI design and prototype were created in Figma.
 
 ## Figma Prototype
 
-Paste your Figma prototype link here.
+https://www.figma.com/proto/Jh6knXTFSeMrppfNiQ18Mt/Untitled?node-id=947-294&t=CUPC6Zjzyg642gyJ-1&scaling=scale-down&content-scaling=fixed&page-id=741%3A164&starting-point-node-id=947%3A265&show-proto-sidebar=1
 
 ## Project Preview
 
